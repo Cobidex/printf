@@ -4,6 +4,7 @@
  * printf_HEX_aux - prints an hexgecimal number.
  * @num: number to print.
  * Return: counter.
+ * On success, execute properly.
  */
 int printf_HEX_aux(unsigned int num)
 {

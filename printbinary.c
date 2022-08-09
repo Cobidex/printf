@@ -4,6 +4,7 @@
  * printf_bin - prints a binary number.
  * @val: arguments.
  * Return: 1.
+ * On success, execute code properly.
  */
 int printf_bin(va_list val)
 {

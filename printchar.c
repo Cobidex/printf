@@ -4,6 +4,7 @@
  * printf_char - prints a char.
  * @val: arguments.
  * Return: 1.
+ * On success, execute properly.
  */
 int printf_char(va_list val)
 {

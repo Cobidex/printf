@@ -5,6 +5,7 @@
  * @args: type struct va_arg where is allocated printf arguments
  *
  * Return: the string
+ * On success, executed properly
  */
 int printf_srev(va_list args)
 {

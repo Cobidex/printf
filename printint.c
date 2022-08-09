@@ -3,6 +3,7 @@
  * printf_int - prints integer
  * @args: argument to print
  * Return: number of characters printed
+ * On success, execute program properly.
  */
 int printf_int(va_list args)
 {

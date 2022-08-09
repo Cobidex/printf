@@ -4,6 +4,7 @@
  * printf_oct - prints an octal number.
  * @val: arguments.
  * Return: counter.
+ * On success, execute properly.
  */
 int printf_oct(va_list val)
 {

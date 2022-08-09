@@ -4,6 +4,7 @@
  * printf_hex - prints an hexgecimal number.
  * @val: arguments.
  * Return: counter.
+ * On success, execute properly
  */
 int printf_hex(va_list val)
 {
